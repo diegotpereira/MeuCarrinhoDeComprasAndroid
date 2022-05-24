@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/administrator/AndroidStudioProjects/MeuCarrinhoDeComprasAndroid/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/MeuCarrinhoDeComprasAndroid/app/src/main/res/layout/activity_pagina_principal.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/MeuCarrinhoDeComprasAndroid/app/src/main/res/layout/activity_registrar.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/MeuCarrinhoDeComprasAndroid/app/src/main/res/layout/app_bar_main.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/MeuCarrinhoDeComprasAndroid/app/src/main/res/layout/home_nav_header.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/MeuCarrinhoDeComprasAndroid/app/src/main/res/menu/draw_menu.xml" value="0.965625" />
       </map>
     </option>
   </component>
